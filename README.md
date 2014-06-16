@@ -7,4 +7,4 @@ O interpretador de HTML foi inserido devido a necessidade de se chamar uma fuç�
 <p>Foi desenvolvida em HTML5, JavaScript e JQuery Mobile com o intuito de colocar em prática meus conhecimentos nesta biblioteca e testar seu desempenho.</p>
 <h3>Modo de usar:</h3>
 <p>Seu uso é bastemte simples, composto por apenas 3 páginas: a tela onde serão exibidos os resultados, a tela de edição de HTML e a de JavaScript. O estilo dinâmico do menu pode parecer cunfuso a primeira vista porêm ao usar fica claro sua simplicidade que torna seu uso muito fácil onde o usuário pode trocar de páginas e para ver o resultado basta ir para a tela.</p>
-<h3><a href="https://docs.google.com/file/d/0B0bM9YNF_RCEbnB4aHJna3BaN28/edit">DOWNLOAD</a></h3>
+<h3><a href="https://docs.google.com/file/d/0B0bM9YNF_RCEbnB4aHJna3BaN28/edit" target="_blank">DOWNLOAD</a></h3>
